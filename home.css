@@ -1,0 +1,24 @@
+.homeImage{
+    width: 80%;
+    margin-left: 4rem;
+}
+
+.homeText{
+    font-size: 2rem;
+    font-family:'Times New Roman', Times, serif;
+    text-align: center;
+}
+
+.homeContainer{
+    margin-top: 3rem;
+    width: 50%;
+    margin-left: auto;
+    margin-right: auto;
+}
+
+.homeHeader{
+    font-family: 'Times New Roman', Times, serif;
+    text-align: center;
+    font-size: 2.5rem;
+    text-decoration: underline;
+}
